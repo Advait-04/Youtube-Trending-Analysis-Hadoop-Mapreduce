@@ -1,1 +1,1 @@
-# Youtube-Trending-Analysis-Hadoop-Mapreduce
+# Analysis of YouTube's Trending Videos using Hadoop MapReduce
