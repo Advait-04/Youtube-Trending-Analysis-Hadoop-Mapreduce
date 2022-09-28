@@ -10,19 +10,19 @@
 
 <br/><br/>
 
-![WhatsApp Image 2022-06-03 at 12 51 23 AM](https://user-images.githubusercontent.com/73750950/192682187-519fcaa9-3e9d-4e79-9476-d0ff7fd4f959.jpeg)
+<img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682187-519fcaa9-3e9d-4e79-9476-d0ff7fd4f959.jpeg"/>
 
 <br/><br/>
 
-![WhatsApp Image 2022-06-03 at 12 54 31 AM](https://user-images.githubusercontent.com/73750950/192682195-b012f8c4-5c5c-4161-b11b-86e64ace956a.jpeg)
+<img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682195-b012f8c4-5c5c-4161-b11b-86e64ace956a.jpeg"/>
 
 <br/><br/>
 
-![WhatsApp Image 2022-06-03 at 12 52 54 AM](https://user-images.githubusercontent.com/73750950/192682220-b4626645-719d-45d0-8483-9c56cb817124.jpeg)
+<img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682220-b4626645-719d-45d0-8483-9c56cb817124.jpeg"/>
 
 <br/><br/>
 
-![WhatsApp Image 2022-06-03 at 12 53 21 AM](https://user-images.githubusercontent.com/73750950/192682203-5beb952e-4212-4dee-9a77-57a0d1f1640a.jpeg)
+<img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682203-5beb952e-4212-4dee-9a77-57a0d1f1640a.jpeg"/>
 
 <br/><br/>
 
