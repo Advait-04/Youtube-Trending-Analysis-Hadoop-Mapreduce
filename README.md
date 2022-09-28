@@ -17,19 +17,12 @@
   <p align = "center">
   
   <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682187-519fcaa9-3e9d-4e79-9476-d0ff7fd4f959.jpeg"/>  
-
   <br/><br/>
-
   <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682220-b4626645-719d-45d0-8483-9c56cb817124.jpeg"/>
-
   <br/><br/>
-
   <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682203-5beb952e-4212-4dee-9a77-57a0d1f1640a.jpeg"/>
-
+  <br/><br/>
+  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682195-b012f8c4-5c5c-4161-b11b-86e64ace956a.jpeg"/>
   <br/><br/>
   
-  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682195-b012f8c4-5c5c-4161-b11b-86e64ace956a.jpeg"/>
-
-  <br/><br/>
-
-</p>
+  </p>
