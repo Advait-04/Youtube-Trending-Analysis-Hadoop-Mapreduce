@@ -1,5 +1,17 @@
 # Analysis of YouTube's Trending Videos using Hadoop MapReduce
 
+## Introduction
+In this project we aim to gather information relating to recently trending videos on the YouTube platform, such as, which channels make these videos and which categories of videos reach the trending page the most.  
+
+We gathered this information from the YouTube API and processed it using Hadoop’s MapReduce.  
+
+We will be focusing on the following:  
+
+- Videos from which categories most frequently come into the trending page
+- Which channels most frequently appear on the trending page
+- How many views each of these trending categories receive.
+
+
 ## Workflow for Dataset Preparation
   
   <p align = "center">
