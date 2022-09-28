@@ -32,6 +32,18 @@ Here, we will be creating and configuring a “Job” for Hadoop to execute.
   - Input and Output paths (These have been given to the .jar file as arguments)
 - Finally, we make the client created run the job with the configuration
 
+### MapReduce Operations
+Within the Mapper, we will be using the dataset in the provided Input directory and mapping each key (not unique) to their respective values based on our requirement (CategoryID and Frequency, ChannelID and Frequency, CategoryID and Views)
+- This requires us to split the .csv dataset into the separate fields and taking the ones we need 
+Within the Reducer, we go through each of the outputs of the Mapper class (Mapped key-value pairs) and sum up the values of similar keys until we get a reduced list with only unique keys.
+- This is done by taking a key-value pair and incrementing it’s value each time the same key is encountered.
+
+#### Workflow for Dataset Processing (Hadoop MapReduce)
+  <p align = "center">
+  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682144-96a534e7-4442-4bc3-ba2c-586f00d3e86e.png"/>  
+  <br/><br/>
+  </p>
+
 
 ## Workflow for Dataset Preparation
   
@@ -40,11 +52,7 @@ Here, we will be creating and configuring a “Job” for Hadoop to execute.
   <br/><br/>
   </p>
 
-## Workflow for Dataset Processing (Hadoop MapReduce)
-  <p align = "center">
-  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682144-96a534e7-4442-4bc3-ba2c-586f00d3e86e.png"/>  
-  <br/><br/>
-  </p>
+
   
 ## Results / Output
   <p align = "center">
