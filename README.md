@@ -11,6 +11,17 @@ We will be focusing on the following:
 - Which channels most frequently appear on the trending page
 - How many views each of these trending categories receive.
 
+## Implementation
+### On the Command Line
+First, we need to setup the processes needed for Hadoop to run from the CLI
+- Set classpath for Hadoop to output the compiled classes 
+- Compile Java Files 
+- Obtain class files: Hadoop outputs the created class files to the path mentioned above.
+- Create .jar file from the class files that we have now. This is what Hadoop is going to use to run all the required classes.
+- Create an input directory for HDFS to take input from and copy the dataset we created into it.
+- Run the jar file using hadoop with the input and output directories as arguments
+- Output is sent to specified output directory
+
 
 ## Workflow for Dataset Preparation
   
