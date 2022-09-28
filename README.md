@@ -11,6 +11,19 @@ We will be focusing on the following:
 - Which channels most frequently appear on the trending page
 - How many views each of these trending categories receive.
 
+## Dataset
+We used the Youtube API to create the dataset, for which we gathered video from five distinct regions: India, Indonesia, the United States, the United Arab Emirates, and Canada. The dataset is returned as a .JSON file, via the API, which is subsequently transformed to a CSV file. The 5 individual CSV files is then joined and formatted using EXCEL Power Query in the format that the Mapper class can allocate tasks.  
+
+All analysis for this project is done using the ChannelId and CategoryId columns.
+- A YouTube Channel ID is a unique identifier for a YouTube Channel. This ID can be used for social apps or services to show a particular YouTube channel’s information or feeds.
+- A YouTube Category ID is a list of video categories that can be associated with YouTube videos. In this map, the video category ID is the map key, and its value is the corresponding video Category resource.
+
+### Workflow for Dataset Preparation
+  <p align = "center">
+  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682165-33e08f4e-d8a7-44f8-b61b-6bdc0aeef96c.png"/> 
+  <br/><br/>
+  </p>
+
 ## Implementation
 ### On the Command Line
 First, we need to setup the processes needed for Hadoop to run from the CLI
@@ -44,16 +57,6 @@ Within the Reducer, we go through each of the outputs of the Mapper class (Mappe
   <br/><br/>
   </p>
 
-
-## Workflow for Dataset Preparation
-  
-  <p align = "center">
-  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682165-33e08f4e-d8a7-44f8-b61b-6bdc0aeef96c.png"/> 
-  <br/><br/>
-  </p>
-
-
-  
 ## Results / Output
   <p align = "center">
   
