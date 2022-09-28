@@ -22,6 +22,16 @@ First, we need to setup the processes needed for Hadoop to run from the CLI
 - Run the jar file using hadoop with the input and output directories as arguments
 - Output is sent to specified output directory
 
+### In the Driver Code
+Here, we will be creating and configuring a “Job” for Hadoop to execute.
+- First, we create the client to run the job and the configuration object for the job
+- To configure the Job we need to set the following parameters:
+  - The name
+  - Output key type and value type (Text and int for us)
+  - Specify the names of the Mapper and Reducer Classes that need to be used
+  - Input and Output paths (These have been given to the .jar file as arguments)
+- Finally, we make the client created run the job with the configuration
+
 
 ## Workflow for Dataset Preparation
   
