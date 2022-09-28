@@ -5,10 +5,13 @@
   <p align = "center">
   <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682165-33e08f4e-d8a7-44f8-b61b-6bdc0aeef96c.png"/> 
   <br/><br/>
+  </p>
 
-  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682144-96a534e7-4442-4bc3-ba2c-586f00d3e86e.png"/>
-
+## Workflow for Dataset Processing (Hadoop MapReduce)
+  <p align = "center">
+  <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682144-96a534e7-4442-4bc3-ba2c-586f00d3e86e.png"/>  
   <br/><br/>
+  </p>
 
   <img align = "center" src = "https://user-images.githubusercontent.com/73750950/192682187-519fcaa9-3e9d-4e79-9476-d0ff7fd4f959.jpeg"/>
 
